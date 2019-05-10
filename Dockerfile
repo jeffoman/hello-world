@@ -1,4 +1,4 @@
-ROM alpine:3.6
+FROM alpine:3.6
 LABEL maintainer="Russ McKendrick <russ@mckendrick.io>" 
 LABEL description="This example Dockerfile installs Apache & PHP." 
 
